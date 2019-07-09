@@ -1,8 +1,8 @@
 
 provider "aws" {
-
-access_key = "AKIAIGNAJHZ36N5VTPJA"
-  secret_key = "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"
+#setting up the access key and secret key
+access_key = "enteruserawsaccesskeyid"
+  secret_key = "enteruserawssecretkey"
         region     = "${var.region}"
 } # end provider
 # create the VPC
