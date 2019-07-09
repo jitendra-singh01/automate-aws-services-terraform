@@ -1,4 +1,5 @@
 # variable.tf
+#setting up the value of variables...
 variable "region" {
  default = "us-east-1"
 }
