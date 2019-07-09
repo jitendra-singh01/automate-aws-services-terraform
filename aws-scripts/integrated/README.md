@@ -8,3 +8,5 @@ components like:
 2. Internet Gateway
 3. Route tables
 4. IP Allocation.
+5. Network ACL
+6. Security groups
