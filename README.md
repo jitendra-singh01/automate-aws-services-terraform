@@ -15,7 +15,7 @@ AWS provides high availablity & reliable services like
 7. VPC for networking
 8. IAM for user management, user authorization to use/access specific aws resources.
 
-To provise, manage or model above services, AWS provides the GUI & CLI. To automate the provising or modelling process of AWS services, we can use Terraform. Terraform is infrastructure tool, we can't do administrative services with Terraform. To provise, manage administrative services, we can use Ansible tool, Please check following URL of AWS Ansible repository...
-https://github.com/jitendra-singh01/aws-orchestration-ansible-sample
+To provise, manage or model above services, AWS provides the GUI & CLI. To automate the provising or modelling process of AWS services, we can use Terraform. Terraform is infrastructure tool, we can't do administrative services with Terraform. To provise, manage administrative services, we can use Ansible tool, Please check following URL of AWS Ansible repository...<br>
+https://github.com/jitendra-singh01/automate-aws-services-terraform
 
 In this repository, you will the terraform scripts/templates to manage AWS compute, VPC, IAM etc...
