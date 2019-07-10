@@ -1,4 +1,4 @@
-AWS is becoming first choice of IT industry in the cloud contenxt. AWS offers reliable, scalable, and inexpensive cloud computing services to all tier companies. 
+AWS is becoming first choice of IT industry in the cloud context. AWS offers reliable, scalable, and inexpensive cloud computing services to all tier companies. 
 AWS provides high availablity & reliable services like
 1. EC2 instance to put your application online
 2. Keys to access instance
