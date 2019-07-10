@@ -1,0 +1,1 @@
+AWS Autoscaling provides the High availability and scalable solution to your web application. It takes care of your app avaiability by running enough instances to handle traffic. 

@@ -1,6 +1,6 @@
 provider "aws" {
-  access_key = "AKIAIGNAJHZ36N5VTPJA"
-  secret_key = "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"
+  access_key = "adduserawsaccesskey"
+  secret_key = "adduserawssecretkey"
   region     = "us-east-1"
 # Make it faster by skipping something
   skip_get_ec2_platforms      = true
